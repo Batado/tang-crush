@@ -1,17 +1,16 @@
 const CONFIG = {
-    introTitle: 'hi ong cha~!',
-    introDesc: ` zợ pít là mí nay chòng bị bịnh nên mịt moi~
-    zữ lém nên hnai zợ sẽ lèm céi nì tặng chòng ó `,
+    introTitle: 'Halo, hòn tử đít pự của em ',
+    introDesc: `tui biết bé học hành mệt mỏi suy nghĩ đủ thứ nên tui làm cái này cho bé  `,
     btnIntro: 'hihi',
-    title: 'Phải chăng zợ đã mê ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng zợ đã thích ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là iu ck mãi hui  a <33',
-    btnNo: 'Đố ck nhấn đc chữ ko ó nka a :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao zợ lại iu ck <3',
-    btnReply: 'Gửi cho ck ó  <3',
-    reply: 'Thich thì thich  mà không thich thì thich <33333333',
+    title: 'Tui có rất nhiều kế hoạch để làm cùng với bé lắm á ',
+    desc: 'Tui yêu bé rất nhiều ',
+    btnYes: 'Vẫn cứ yêu bé vãi l cho dù địt thúi đi nữa thì vẫn iu <33',
+    btnNo: 'Đố bé  nhấn đc chữ ko ó nka  :3',
+    question:'Soa bé lại yêu tui é  <3',
+    btnReply: 'Gửi cho bé  ó  <3',
+    reply: 'Yêu thì yêu mà không yêu cũng yêu  <33333333',
     mess: ' biết mà 🥰. Hhehehe  😘😘',
-    messDesc: ' hun chụt chụt   :))).',
+    messDesc: ' Yêu bé vãi l    :))).',
     btnAccept: 'ôki lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://m.me/dat.nguyn.92754' 
 }
